@@ -1,0 +1,48 @@
+body {
+  background: black;
+  background-image: url('mvhs-logo.png');
+   background-size: cover;
+width: 80%;
+margin: auto;
+  
+}
+
+h1 {
+  font-weight: bold;
+  color: gold;
+  text-align: center;
+  background-color: green;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+    background-color: gold;
+}
+
+a:link, a:visited {
+  background-color: #036819;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    display: inline-block;
+}
+img {
+    float: center;
+}
+
+
+
+
+
+
+
+
